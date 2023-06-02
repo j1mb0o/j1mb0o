@@ -7,7 +7,10 @@ An MSc Artificial Intelligence student, at Leiden University<br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=j1mb0o&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=j1mb0o&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=j1mb0o&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=j1mb0o&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j1mb0o&layout=compact&size_weight=0.5&count_weight=0.5&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j1mb0o&layout=compact&size_weight=0.5&count_weight=0.5&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
